@@ -1,4 +1,4 @@
-import Pesquisa from './components/Pesquisa';
+import Pesquisa from './components/Pesquis';
 import Header from './components/Header';
 import styled from 'styled-components';
 import UltimosLancamentos from './components/UltimosLancamentos';
